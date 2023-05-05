@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sushant (Daksh)</h1>
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/126196-jansmavip-html-and-coding-pages">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <h3 align="center">A passionate frontend, Mobile app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **imsushantnm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B_-kTE6GjAC4VJvpo_Z1AUgNYiukthM2/view?usp=share_link](https://drive.google.com/file/d/1B_-kTE6GjAC4VJvpo_Z1AUgNYiukthM2/view?usp=share_link)
+- 📄 Know about my experiences [Downlaod Resume](https://drive.google.com/file/d/1B_-kTE6GjAC4VJvpo_Z1AUgNYiukthM2/view?usp=share_link)
 
 - ⚡ Foreign Language **French (Beginner)**
 
